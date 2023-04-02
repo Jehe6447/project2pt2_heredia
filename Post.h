@@ -1,3 +1,7 @@
+// CSCI 1300 Spring 2023
+// Author: Jeremiah Heredia
+// Recitation: 102  – Tuan Tran
+// Project 2 - Problem # 1
 #ifndef POST_H
 #define POST_H
 
